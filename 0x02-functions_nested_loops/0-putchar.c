@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ *Description: main -  print '_Putchar' and a newline.
+ *
+ * Return: Nothing.
+ *
+ */
 int main(void)
 {
 
